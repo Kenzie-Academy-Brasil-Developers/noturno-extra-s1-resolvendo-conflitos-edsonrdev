@@ -17,6 +17,7 @@ A partir da branch Main, crie uma branch chamada ``primeiro_fato``. Copie e cole
 ## Primeiro fato sobre EDSON RODRIGUES
 
 1º FATO - Sou um cara chato pra dedéu... 
+2º FATO - Mas, mesmo sendo um chato, sou um docinho com aqueles que sabem extrair o melhor de mim!
 ```
 
 Faça um ``commit`` e um ``push``. Volte para a branch ``master`` e repita o processo com uma branch ``segundo_fato`` e ``terceiro_fato``. Lembre-se de editar todos os dados possíveis de acordo com suas informações.
